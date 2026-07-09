@@ -1,0 +1,2 @@
+-- shop opening is now handled by serverscriptservice.shopserver
+-- via the openshop remoteevent when the proximityprompt is triggered
