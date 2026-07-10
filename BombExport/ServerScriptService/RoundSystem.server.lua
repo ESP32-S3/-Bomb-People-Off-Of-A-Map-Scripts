@@ -1,3 +1,5 @@
+--sent a disabled script over here by accident so since i can't revoke an application i put GameManager here
+
 local Players = game:GetService("Players")
 local RS = game:GetService("ReplicatedStorage")
 local ServerScriptService = game:GetService("ServerScriptService")
