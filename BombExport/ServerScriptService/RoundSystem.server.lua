@@ -1,5 +1,4 @@
--- disabled: conflicts with gamemanager (duplicate round loop)
-do return end
+
 
 local Players = game:GetService("Players")
 local RS = game:GetService("ReplicatedStorage")
